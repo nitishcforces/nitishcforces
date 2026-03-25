@@ -56,24 +56,34 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitishojha00&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishojha00&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitishojha00&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishojha00&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitishojha00&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="60%" />
-</div>
 
+  <img src="https://streak-stats.demolab.com?user=Nitishojha00&theme=github-dark&hide_border=true" height="180"/>
+
+</div>
 ---
 
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Nitishojha00" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/nitishojha00/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/__Nitish___Ojha/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" width="40" height="40" alt="LeetCode" /></a>
-  <a href="https://x.com/nitishojha00/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" alt="X" /></a>
-  <a href="https://www.codechef.com/users/nitish_ojha/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codechef.svg" width="40" height="40" alt="CodeChef" /></a>
+  <a href="https://linkedin.com/in/nitishojha00/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://x.com/nitishojha00/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45" height="45" alt="X" />
+  </a>
+  
+  <a href="mailto:nitishojha00@gmail.com">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="45" height="45" alt="Gmail" />
+  </a>
 </p>
 
 ---
